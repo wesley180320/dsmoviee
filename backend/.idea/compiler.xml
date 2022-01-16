@@ -10,6 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="backend" target="17" />
       <module name="dsmovie" target="17" />
     </bytecodeTargetLevel>
   </component>
